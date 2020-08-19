@@ -1,0 +1,12 @@
+[Site "Chess.com"]
+[Date "2020.08.10"]
+[Event "Vs. Computer"]
+[Round "1"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/4p2Q/2B5/4P3/PPPP1PPP/RNB1K1NR b KQkq - 0 3"]
+[White "Computer Level 1"]
+[Black "AKG0007"]
+[Result "0-1"]
+[SetUp "1"]
+[CurrentPosition "3r2k1/p1p2ppp/8/8/PPPn2P1/1r1Kp1n1/3b4/8 w - - 1 37"]
+
+3...d5 4.Qe2 Nf6 5.h4 Bg4 6.f3 Be6 7.Bxd5 Bxd5 8.h5 Nxh5 9.d4 exd4 10.Nc3 Bc5 11.Qd3 Qd6 12.Nge2 Nf6 13.Na4 O-O 14.Nf4 Rfe8 15.Kf1 Rad8 16.a3 Re5 17.Nxd5 Nxd5 18.f4 b6 19.Nxb6 Qg6 20.Na4 Qf5 21.b3 dxe3 22.Qxf5 Rxf5 23.Ra2 Bd4 24.c4 Nc3 25.Ra1 Nd1 26.Nb2 Nf2 27.g4 Nxh1 28.Rb1 Rxf4+ 29.Ke2 Ng3+ 30.Ke1 Bc3+ 31.Bd2 Bxd2+ 32.Kd1 Rf1+ 33.Kc2 Nd4+ 34.Kd3 Rxb1 35.a4 Rxb2 36.b4 Rb3#  0-1
